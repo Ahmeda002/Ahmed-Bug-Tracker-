@@ -1,2 +1,8 @@
-# Ahmed-Bug-Tracker-
-Starting sophomore year plan to work on it till senior year 
+# Bug Tracker (Console)
+Tiny console-based issue tracker in Python.
+- Create tickets
+- List tickets
+- Update status
+
+## Run
+python bugtracker.py
